@@ -1,4 +1,4 @@
-![logo](https://github.com/mrrazahussain/mrrazahussain/blob/main/cover_photo.png)
+![logo](https://github.com/mrrazahussain/mrrazahussain/blob/main/mrrazahussain.cover.png)
 <h1 align="center">Hi 👋, I'm Raza Hussain</h1>
 <h3 align="center">🏆 Upwork Top Rated Plus | Senior Software Developer | Ruby on Rails | React | React-Native| Full Stack Developer</h3>
 <a href="https://www.linkedin.com/in/mrrazahussain/">
