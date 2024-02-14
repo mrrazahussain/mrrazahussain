@@ -30,7 +30,6 @@
 
 
 ### About Me 🚀
-[visit my portfolio](https://razahussain.com/)
 <p>With a passion for creating impactful digital experiences, I am Raza Hussain, a seasoned software developer with over 13 years of expertise in the dynamic realm of technology. My journey has been marked by a deep proficiency in Ruby on Rails, complemented by 3 years each in React and React-Native mobile application development.</p>
 
 ### Key Highlights: 🚀
