@@ -19,6 +19,16 @@
 <hr>
 
 
+<p align="left"> <a href="https://twitter.com/mrrazahussain" target="blank"><img src="https://img.shields.io/twitter/follow/mrrazahussain?logo=twitter&style=for-the-badge" alt="mrrazahussain" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [www.razahussain.com](www.razahussain.com)
+
+- 💬 Ask me about **ruby, ruby on rails, react, react-native**
+
+- 📫 How to reach me **mr.raza.hussain@gmail.com**
+<hr>
+
+
 ### About Me 🚀
 [visit my portfolio](https://razahussain.com/)
 <p>With a passion for creating impactful digital experiences, I am Raza Hussain, a seasoned software developer with over 13 years of expertise in the dynamic realm of technology. My journey has been marked by a deep proficiency in Ruby on Rails, complemented by 3 years each in React and React-Native mobile application development.</p>
@@ -34,14 +44,6 @@
 Let's Collaborate: I am always eager to connect with fellow industry professionals, tech enthusiasts, and individuals passionate about leveraging technology to its fullest potential. Whether it's discussing the latest in software development or exploring collaborative opportunities, I'm here to connect.
 </p>
 <hr>
-
-<p align="left"> <a href="https://twitter.com/mrrazahussain" target="blank"><img src="https://img.shields.io/twitter/follow/mrrazahussain?logo=twitter&style=for-the-badge" alt="mrrazahussain" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [www.razahussain.com](www.razahussain.com)
-
-- 💬 Ask me about **ruby, ruby on rails, react, react-native**
-
-- 📫 How to reach me **mr.raza.hussain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
